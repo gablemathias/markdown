@@ -28,3 +28,8 @@ full_name = """{0} {1}""".format(first, last)
 print(full_name)
 # => Gabriel Mathias
 ```
+
+## Task List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
